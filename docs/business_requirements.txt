@@ -1,0 +1,1 @@
+Sample project to work in folder structure and deloying it in web
